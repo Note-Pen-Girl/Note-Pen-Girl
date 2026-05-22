@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm ADLINE ❤️
+[![MasterHead](https://github.com/Note-Pen-Girl/Note-Pen-Girl/blob/main/Business%20Requirements.gif)](https://Note-Pen-Girl.io)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-[![MasterHead]()](https://Note-Pen-Girl.io)
+
 
 
 # 📊 GitHub Stats:
