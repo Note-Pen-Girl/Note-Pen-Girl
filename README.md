@@ -1,13 +1,12 @@
 <div align="center">
   
-[![MasterHead](https://github.com/Note-Pen-Girl/Note-Pen-Girl/blob/main/Business%20Requirements.gif)](https://Note-Pen-Girl.io)
+[![MasterHead](https://github.com/Note-Pen-Girl/Note-Pen-Girl/blob/main/Banner.gif)](https://Note-Pen-Girl.io)
 
 </div>
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FF000000&multiline=true&width=1005&lines=Results-Driven+Data+Analytics+Professional+with+2+years+at+Capgemini%2C+Bangalore.)](https://git.io/typing-svg)
-
 ---
 
 ## 🛠️ Skills
