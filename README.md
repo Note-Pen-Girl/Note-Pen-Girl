@@ -1,8 +1,14 @@
 <div align="center">
-
+  
 [![MasterHead](https://github.com/Note-Pen-Girl/Note-Pen-Girl/blob/main/Business%20Requirements.gif)](https://Note-Pen-Girl.io)
 
 </div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FF000000&multiline=true&width=1005&lines=Results-Driven+Data+Analytics+Professional+with+2+years+at+Capgemini%2C+Bangalore.)](https://git.io/typing-svg)
+
+---
 
 ## 🛠️ Skills
 
@@ -17,7 +23,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
----
+
 ## ⚙️ Tools
 
 <p>
@@ -32,7 +38,6 @@
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
 
----
 
 ## 🧠 Currently Learning
 <p>
@@ -41,6 +46,7 @@
   <img src="https://img.shields.io/badge/AI_Powered_Analytics-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+---
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
